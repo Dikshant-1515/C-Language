@@ -60,7 +60,7 @@ int main(){
 // Write a program to print 1,4,6,............,81,100
 // USING FOR LOOP
 
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
     int num=1;
     for (1; num <=10; num++);
@@ -69,11 +69,11 @@ int main(){
     }
     
     return 0;
-}*/
+}
 
 
 // USING WHILE LOOP
-/*
+
 #include <stdio.h>
 int main(){
     int num=1;
@@ -82,11 +82,11 @@ int main(){
         num++;
     }
     return 0;
-}*/
+}
 
 
 // USING DO WHILE LOOP
-/*
+
 #include <stdio.h>
 int main(){
     int num=1;
@@ -98,4 +98,4 @@ int main(){
     } while (num<=10);
     
     return 0;
-}*/
+}
